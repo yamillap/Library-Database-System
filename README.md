@@ -46,7 +46,7 @@ Enter your Oracle username and password in the connection window. Then use the b
 - Add a form to create new customers (currently the data comes from the seed script)
 - Make the database connection configurable instead of hardcoded
 - Add indexes and benchmark query performance on a larger dataset
-- Containerize with Docker
+
 
 
 
