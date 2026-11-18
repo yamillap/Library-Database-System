@@ -39,9 +39,6 @@ Enter your Oracle username and password in the connection window. Then use the b
 
 > Note: the connection string is currently hardcoded to `localhost:1521/xe`.
 
-## Screenshots
-
-_Add a screenshot of the main window and the Read/Update/Delete window here._
 
 ## Known Limitations and Future Improvements
 
